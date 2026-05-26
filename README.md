@@ -4,8 +4,11 @@ I look after a portfolio of mission-critical in-store apps and hardware — poin
 What I'm into
 
 🛒 Retail & payments product — POS, EFTPOS, gift card platforms, and the unglamorous-but-critical infrastructure that keeps stores running.
+
 🤖 AI for product management — using AI to move faster across the PM workflow: drafting PRDs, evals, requirements, research synthesis, and prototyping.
+
 💻 Vibe coding — I build my own projects with AI as a pair-programmer. Not a software engineer by trade, but I ship.
+
 🌐 Networking & infrastructure — currently leveling up so I can hold my own with network engineers.
 
 Currently building
